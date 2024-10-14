@@ -24,6 +24,11 @@ markup:
 
 Menus:
   main:
+    - identifier: hi
+      name: Hi
+      title: Hi
+      url: /hi
+      weight: 1000
     - identifier: blog
       name: Blog
       title: Blog posts
@@ -127,29 +132,29 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Harish."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    #intro: "Hi, my name is"
+    title: "Harish Baki"
+    #subtitle: "I build things for the web"
+    content: "Specializing in weather modeling and machine learning, I advance renewable resource assessment and forecasting for solar and wind through high-resolution atmospheric modeling and data-driven analysis."
+    image: /photo.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/resume.pdf"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/HarishBaki
         - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://x.com/HarishBaki1
+      #customIcons:
+        #- icon: /fav.png
+          #url: "https://example.com"
 
   # About
   about:
@@ -157,19 +162,22 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I specialize in renewable energy, with a primary focus on offshore wind energy. My research involves assessing wind energy resources and developing robust forecasting models. I work with high-resolution wind datasets and use the Weather Research and Forecasting (WRF) model to simulate wind patterns over long periods. My work also includes advanced data analysis using reanalysis datasets like CERRA and ERA5, concentrating on wind speed profile estimation and applying machine learning techniques.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on a project that will be used to estimate vertical wind speed profiles provided global reanalysis dataset, which will significantly improve resource assessment capabilities and there by speedup wind farm installations.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a datasets, ML techniques, and weather models I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "WRF Model"
+        - "ERA5"
+        - "CERRA"
+        - "RTMA"
+        - "NOW23"
+        - "NYS Mesonet profilers"
+        - "TabNet"
+        - "U-Net"
+        - "PAUNet"
 
   # Experience
   experience:
