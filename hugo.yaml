@@ -160,7 +160,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/photo2.png"
     content: |-
       I specialize in renewable energy, with a primary focus on offshore wind energy. My research involves assessing wind energy resources and developing robust forecasting models. I work with high-resolution wind datasets and use the Weather Research and Forecasting (WRF) model to simulate wind patterns over long periods. My work also includes advanced data analysis using reanalysis datasets like CERRA and ERA5, concentrating on wind speed profile estimation and applying machine learning techniques.
 
