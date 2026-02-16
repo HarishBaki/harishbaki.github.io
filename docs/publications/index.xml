@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Harish Baki</title>
+    <link>https://harishbaki.github.io/publications/</link>
+    <description>Recent content in Publications on Harish Baki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://harishbaki.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Deep Learning Framework for Generating High-Resolution Wind Gust Fields</title>
+      <link>https://harishbaki.github.io/publications/wind-gust-fields-from-sparse-observations/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/wind-gust-fields-from-sparse-observations/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; JAIES (revision submitted) (2026)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.22541/essoar.176031304.41826798/v2&#34;&gt;10.22541/essoar.176031304.41826798/v2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chebyshev Polynomial-Based Wind Speed Profile Characterization</title>
+      <link>https://harishbaki.github.io/publications/chebyshev-wind-speed-profile-characterization/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/chebyshev-wind-speed-profile-characterization/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Wind Energy (2026)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1002/we.70080&#34;&gt;10.1002/we.70080&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marine Renewables in Energy Systems</title>
+      <link>https://harishbaki.github.io/publications/marine-renewables-in-energy-systems/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/marine-renewables-in-energy-systems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Energy (2025)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1016/j.energy.2025.138359&#34;&gt;10.1016/j.energy.2025.138359&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modelling Frontal Low-Level Jets and Extreme Wind Power Ramps</title>
+      <link>https://harishbaki.github.io/publications/frontal-low-level-jets-wind-power-ramps/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/frontal-low-level-jets-wind-power-ramps/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Wind Energy Science (2025)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.5194/wes-10-1575-2025&#34;&gt;10.5194/wes-10-1575-2025&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Estimating High-Resolution Wind Profiles Using TabNet</title>
+      <link>https://harishbaki.github.io/publications/tabnet-high-resolution-wind-profiles/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/tabnet-high-resolution-wind-profiles/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Environmental Data Science (2024)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1017/eds.2024.41&#34;&gt;10.1017/eds.2024.41&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gaussian Process BO of WRF Parameters</title>
+      <link>https://harishbaki.github.io/publications/gbo-optimization-wrf-parameters/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/gbo-optimization-wrf-parameters/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Geophysical Research Letters (2024)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1029/2024GL111074&#34;&gt;10.1029/2024GL111074&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Offshore Wind Power Potential of Portugal</title>
+      <link>https://harishbaki.github.io/publications/offshore-wind-power-potential-portugal/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/offshore-wind-power-potential-portugal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Journal of Renewable and Sustainable Energy (2024)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1063/5.0222974&#34;&gt;10.1063/5.0222974&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ML-Based Parameter Sensitivity for Heat Extremes</title>
+      <link>https://harishbaki.github.io/publications/ml-parameter-sensitivity-heat-extremes/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/ml-parameter-sensitivity-heat-extremes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Environmental Research Letters (2023)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1088/1748-9326/ad0eb0&#34;&gt;10.1088/1748-9326/ad0eb0&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impact of Data Assimilation on a Calibrated WRF Model</title>
+      <link>https://harishbaki.github.io/publications/data-assimilation-calibrated-wrf/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/data-assimilation-calibrated-wrf/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Current Science (2022)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.18520/cs/v122/i5/569-583&#34;&gt;10.18520/cs/v122/i5/569-583&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sensitive WRF Parameters for Bay of Bengal Cyclones</title>
+      <link>https://harishbaki.github.io/publications/sensitive-wrf-parameters-tropical-cyclones/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/sensitive-wrf-parameters-tropical-cyclones/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Geoscientific Model Development (2022)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.5194/gmd-15-2133-2022&#34;&gt;10.5194/gmd-15-2133-2022&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WRF Calibration for Tropical Cyclone Prediction</title>
+      <link>https://harishbaki.github.io/publications/wrf-calibration-cyclone-prediction/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/wrf-calibration-cyclone-prediction/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Journal of Applied Meteorology and Climatology (2022)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1175/JAMC-D-21-0184.1&#34;&gt;10.1175/JAMC-D-21-0184.1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WRF Microphysics/Cumulus Sensitivity Using GPM Radar</title>
+      <link>https://harishbaki.github.io/publications/wrf-microphysics-cumulus-sensitivity-gpm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/wrf-microphysics-cumulus-sensitivity-gpm/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Journal of Earth System Science (2021)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1007/s12040-021-01682-3&#34;&gt;10.1007/s12040-021-01682-3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Topology Optimization Using Convolutional Neural Networks</title>
+      <link>https://harishbaki.github.io/publications/topology-optimization-using-cnn/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://harishbaki.github.io/publications/topology-optimization-using-cnn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Springer Book Chapter (2020)&lt;br&gt;&#xA;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1007/978-981-15-5432-2_26&#34;&gt;10.1007/978-981-15-5432-2_26&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Replace this page content with your abstract, contributions, and impact notes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

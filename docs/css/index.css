@@ -238,7 +238,7 @@ header .navbar.animate {
 #experience,
 #education,
 #projects,
-#achievements,
+#publications,
 #contact {
     padding-top: 2.25rem !important;
     padding-bottom: 2.25rem !important;
@@ -495,6 +495,86 @@ header .navbar.animate {
 
 /* achievements */
 
+#projects a {
+    text-decoration: none;
+}
+
+#projects h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#projects .card {
+    background-color: var(--secondary-color) !important;
+    border-radius: 1rem;
+    box-shadow: 0 0 36px rgba(0,0,0,0.1);
+    transition: box-shadow .2s linear,opacity .2s linear;
+    border: 2px solid transparent;
+}
+
+#projects .card h5 {
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#projects .card:hover {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#projects .card:focus {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#projects .card-text {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-secondary-color) !important;
+}
+
+#projects img {
+    border-radius: 0.7rem;
+}
+
+#publications a {
+    text-decoration: none;
+}
+
+#publications h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#publications .card {
+    background-color: var(--secondary-color) !important;
+    border-radius: 1rem;
+    box-shadow: 0 0 36px rgba(0,0,0,0.1);
+    /* transform: translate3d(0, 0, 0); */
+    transition: box-shadow .2s linear,opacity .2s linear;
+    border: 2px solid transparent;
+}
+
+#publications .card h5 {
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#publications .card:hover {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+#publications .card:focus {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#publications .card-text {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-secondary-color) !important;
+}
+
+#publications img {
+    border-radius: 0.7rem;
+}
+
 #achievements a {
     text-decoration: none;
 }
@@ -507,7 +587,6 @@ header .navbar.animate {
     background-color: var(--secondary-color) !important;
     border-radius: 1rem;
     box-shadow: 0 0 36px rgba(0,0,0,0.1);
-    /* transform: translate3d(0, 0, 0); */
     transition: box-shadow .2s linear,opacity .2s linear;
     border: 2px solid transparent;
 }
@@ -521,6 +600,7 @@ header .navbar.animate {
     border: 2px solid var(--text-color);
     transition: .3s;
 }
+
 #achievements .card:focus {
     border: 2px solid var(--text-color);
     transition: .3s;

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d3557"/>
+      <stop offset="100%" stop-color="#457b9d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="619" rx="18" fill="none" stroke="rgba(255,255,255,0.38)" stroke-width="2"/>
+  <text x="52" y="76" fill="rgba(255,255,255,0.86)" font-size="22" font-family="Menlo, monospace">Publication 12</text>
+  <text x="52" y="140" fill="white" font-size="30" font-family="Georgia, serif" font-weight="700">WRF Microphysics/Cumulus</text><text x="52" y="174" fill="white" font-size="30" font-family="Georgia, serif" font-weight="700">Sensitivity Using GPM Radar</text>
+  <text x="52" y="612" fill="rgba(255,255,255,0.86)" font-size="18" font-family="Menlo, monospace">DOI: 10.1007/s12040-021-01682-3</text>
+</svg>

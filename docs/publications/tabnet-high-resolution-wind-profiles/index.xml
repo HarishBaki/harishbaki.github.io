@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estimating High-Resolution Wind Profiles Using TabNet on Harish Baki</title>
+    <link>https://harishbaki.github.io/publications/tabnet-high-resolution-wind-profiles/</link>
+    <description>Recent content in Estimating High-Resolution Wind Profiles Using TabNet on Harish Baki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://harishbaki.github.io/publications/tabnet-high-resolution-wind-profiles/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

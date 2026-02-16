@@ -47,7 +47,9 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
+      disableSelectedWork: false
       disableProjects: false
+      disablePublications: false
       disableAchievements: false
       disableContact: false
 
@@ -152,16 +154,16 @@ params:
       - title: "B.Tech (Honors), Mechanical Engineering"
         school:
           name: "Rajiv Gandhi University of Technology - NUZVID"
-          url: "https://www.rguktn.ac.in/"
+          url: "https://rguktn.ac.in/"
         date: "2011 - 2015"
 
-  projects:
+  selectedWork:
     enable: true
     title: "Selected Work"
     items:
       - title: "Wind Gust Field Generation from Sparse Observations"
         content: "Deep-learning framework for generating high-resolution wind gust fields from sparse Mesonet observations, designed for operationally relevant nowcasting."
-        image: /photo2.png
+        image: /publications/wind-gust-fields-from-sparse-observations/collage.svg
         featured:
           name: "Preprint"
           link: https://doi.org/10.22541/essoar.176031304.41826798/v2
@@ -171,7 +173,7 @@ params:
           - "Mesonet"
       - title: "TabNet for High-Resolution Wind Profiles"
         content: "Estimating high-resolution vertical wind speed profiles from global reanalysis data using TabNet and transfer-learning concepts."
-        image: /photo2.png
+        image: /publications/tabnet-high-resolution-wind-profiles/collage.svg
         featured:
           name: "Paper"
           link: https://doi.org/10.1017/eds.2024.41
@@ -181,7 +183,7 @@ params:
           - "Wind Profiles"
       - title: "WRF Calibration with ML for Tropical Cyclones"
         content: "Machine-learning-based sensitivity analysis and calibration of WRF physics for improved cyclone prediction in the Bay of Bengal."
-        image: /photo2.png
+        image: /publications/wrf-calibration-cyclone-prediction/collage.svg
         featured:
           name: "Paper"
           link: https://doi.org/10.1175/JAMC-D-21-0184.1
@@ -190,9 +192,91 @@ params:
           - "Cyclones"
           - "Optimization"
 
+  projects:
+    enable: true
+    title: "Projects"
+    items:
+      - title: "Project Portfolio"
+        content: "Collaborative projects across EU-scale energy systems, climate resilience, and operational forecasting."
+        image: /research-projects/eu-scores/collage.svg
+        url: /research-projects/
+      - title: "EU-SCORES (TU Delft)"
+        content: "Integrated offshore renewable systems research with wind-resource and atmospheric modeling components."
+        image: /research-projects/eu-scores/collage.svg
+        url: /research-projects/eu-scores/
+      - title: "WISER Project"
+        content: "First-year collaboration focused on weather-intelligence and resilience-oriented modeling workflows."
+        image: /research-projects/wiser/collage.svg
+        url: /research-projects/wiser/
+      - title: "DFS Project"
+        content: "Forecast-system collaboration for applied atmospheric modeling and model performance improvements."
+        image: /research-projects/dfs/collage.svg
+        url: /research-projects/dfs/
+
+  publications:
+    enable: true
+    title: "Publications"
+    items:
+      - title: "Publication Impact Collage"
+        content: "Composite view across journal and conference contributions."
+        image: /publications/wind-gust-fields-from-sparse-observations/collage.svg
+        url: https://scholar.google.com/citations?user=2q-QsUIAAAAJ&hl=en&authuser=1
+      - title: "A Deep Learning Framework for Generating High-Resolution Wind Gust Fields"
+        content: "JAIES (revision submitted), 2026."
+        image: /publications/wind-gust-fields-from-sparse-observations/collage.svg
+        url: /publications/wind-gust-fields-from-sparse-observations/
+      - title: "Chebyshev Polynomial-Based Wind Speed Profile Characterization"
+        content: "Wind Energy, 2026."
+        image: /publications/chebyshev-wind-speed-profile-characterization/collage.svg
+        url: /publications/chebyshev-wind-speed-profile-characterization/
+      - title: "Marine Renewables in Energy Systems"
+        content: "Energy, 2025."
+        image: /publications/marine-renewables-in-energy-systems/collage.svg
+        url: /publications/marine-renewables-in-energy-systems/
+      - title: "Modelling Frontal Low-Level Jets and Extreme Wind Power Ramps"
+        content: "Wind Energy Science, 2025."
+        image: /publications/frontal-low-level-jets-wind-power-ramps/collage.svg
+        url: /publications/frontal-low-level-jets-wind-power-ramps/
+      - title: "Offshore Wind Power Potential of Portugal"
+        content: "Journal of Renewable and Sustainable Energy, 2024."
+        image: /publications/offshore-wind-power-potential-portugal/collage.svg
+        url: /publications/offshore-wind-power-potential-portugal/
+      - title: "Gaussian Process BO of WRF Parameters"
+        content: "Geophysical Research Letters, 2024."
+        image: /publications/gbo-optimization-wrf-parameters/collage.svg
+        url: /publications/gbo-optimization-wrf-parameters/
+      - title: "Estimating High-Resolution Wind Profiles using TabNet"
+        content: "Environmental Data Science, 2024."
+        image: /publications/tabnet-high-resolution-wind-profiles/collage.svg
+        url: /publications/tabnet-high-resolution-wind-profiles/
+      - title: "ML-Based Parameter Sensitivity for Heat Extremes"
+        content: "Environmental Research Letters, 2023."
+        image: /publications/ml-parameter-sensitivity-heat-extremes/collage.svg
+        url: /publications/ml-parameter-sensitivity-heat-extremes/
+      - title: "Sensitive WRF Parameters for Bay of Bengal Cyclones"
+        content: "Geoscientific Model Development, 2022."
+        image: /publications/sensitive-wrf-parameters-tropical-cyclones/collage.svg
+        url: /publications/sensitive-wrf-parameters-tropical-cyclones/
+      - title: "WRF Calibration for Tropical Cyclone Prediction"
+        content: "Journal of Applied Meteorology and Climatology, 2022."
+        image: /publications/wrf-calibration-cyclone-prediction/collage.svg
+        url: /publications/wrf-calibration-cyclone-prediction/
+      - title: "Impact of Data Assimilation on a Calibrated WRF Model"
+        content: "Current Science, 2022."
+        image: /publications/data-assimilation-calibrated-wrf/collage.svg
+        url: /publications/data-assimilation-calibrated-wrf/
+      - title: "WRF Microphysics/Cumulus Sensitivity using GPM Radar"
+        content: "Journal of Earth System Science, 2021."
+        image: /publications/wrf-microphysics-cumulus-sensitivity-gpm/collage.svg
+        url: /publications/wrf-microphysics-cumulus-sensitivity-gpm/
+      - title: "Topology Optimization Using Convolutional Neural Networks"
+        content: "Springer Book Chapter, 2020."
+        image: /publications/topology-optimization-using-cnn/collage.svg
+        url: /publications/topology-optimization-using-cnn/
+
   achievements:
     enable: true
-    title: "Highlights"
+    title: "Achievements"
     items:
       - title: "NeurIPS Weather4Cast 2023 - 4th Place"
         content: "Top-4 finish in the Weather4Cast competition on rain movie prediction under spatiotemporal shifts."

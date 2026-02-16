@@ -2,11 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://harishbaki.github.io/publications/wind-gust-fields-from-sparse-observations/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/chebyshev-wind-speed-profile-characterization/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/marine-renewables-in-energy-systems/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/frontal-low-level-jets-wind-power-ramps/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/research-projects/dfs/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/tabnet-high-resolution-wind-profiles/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/research-projects/eu-scores/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/gbo-optimization-wrf-parameters/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/offshore-wind-power-potential-portugal/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/research-projects/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/research-projects/wiser/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/ml-parameter-sensitivity-heat-extremes/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/data-assimilation-calibrated-wrf/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/sensitive-wrf-parameters-tropical-cyclones/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/wrf-calibration-cyclone-prediction/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/wrf-microphysics-cumulus-sensitivity-gpm/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishbaki.github.io/publications/topology-optimization-using-cnn/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://harishbaki.github.io/hi/</loc>
   </url><url>
     <loc>https://harishbaki.github.io/categories/</loc>
-  </url><url>
-    <loc>https://harishbaki.github.io/</loc>
   </url><url>
     <loc>https://harishbaki.github.io/tags/</loc>
   </url>
