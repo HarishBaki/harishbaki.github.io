@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#111827"/>
+  <rect x="40" y="40" width="1320" height="820" rx="18" fill="#1f2937" stroke="#334155"/>
+  <text x="80" y="120" fill="#e5e7eb" font-size="42" font-family="Georgia, serif">AMS Annual Meeting</text>
+  <text x="80" y="180" fill="#93c5fd" font-size="30" font-family="Menlo, monospace">Scene 03</text>
+  <text x="80" y="250" fill="#cbd5e1" font-size="24" font-family="Menlo, monospace">Replace this file with your real event photo.</text>
+</svg>
