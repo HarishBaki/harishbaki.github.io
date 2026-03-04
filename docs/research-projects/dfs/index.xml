@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DFS Project on Harish Baki</title>
-    <link>https://harishbaki.github.io/research-projects/dfs/</link>
+    <link>http://localhost:1313/research-projects/dfs/</link>
     <description>Recent content in DFS Project on Harish Baki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://harishbaki.github.io/research-projects/dfs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/research-projects/dfs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

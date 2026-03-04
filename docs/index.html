@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<meta name="generator" content="Hugo 0.135.0"><meta charset="UTF-8">
+	<meta name="generator" content="Hugo 0.135.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
@@ -29,7 +29,7 @@
 
 
 
-<meta property="og:url" content="https://harishbaki.github.io/">
+<meta property="og:url" content="http://localhost:1313/">
   <meta property="og:site_name" content="Harish Baki">
   <meta property="og:title" content="Harish Baki">
   <meta property="og:description" content="Postdoctoral researcher in AI for weather and climate, focused on wind and extreme-event prediction.">
@@ -319,10 +319,10 @@ Harish Baki
                     Postdoctoral Associate
                 </span>
                 <h1>
-                    Harish Baki
+                    Machine Learning for Weather and Climate
                 </h1>
                 <h2>
-                    Machine Learning for Weather and Climate
+                    
                 </h2>
                 <p class="hero-content">
                     I build AI and numerical-weather-modeling workflows for wind and extreme-weather prediction, with a focus on operationally useful, physically consistent forecasting tools.
@@ -695,7 +695,7 @@ Harish Baki
                     
                     <li>Xarray / Dask / Zarr</li>
                     
-                    <li>HPC and multi-GPU training (NVIDIA A100)</li>
+                    <li>HPC and multi-GPU training (NVIDIA DGX, A100 and H100)</li>
                     
                 </ul>
                 
@@ -703,6 +703,7 @@ Harish Baki
         </div>
     </div>
 </section>
+
 <section id="experience" class="py-5">
     <div class="container">
         <h3 class="text-center">Experience</h3>
@@ -986,7 +987,7 @@ Harish Baki
             <div class="col-lg-4 col-md-6 my-3">
                 <div class="card my-3 h-100 position-relative" title="Wind Gust Field Generation from Sparse Observations">
                     <div class="card-head">
-                        <img class="card-img-top" src="/selected-work/wind-gust-fields-from-sparse-observations/collage.svg" alt="Wind Gust Field Generation from Sparse Observations">
+                        <img class="card-img-top" src="/selected-work/wind-gust-fields-from-sparse-observations/collage.png" alt="Wind Gust Field Generation from Sparse Observations">
                     </div>
                     <div class="card-body bg-transparent p-3">
                         <div class="pb-2 bg-transparent">
@@ -1436,7 +1437,7 @@ Harish Baki
         <div class="col-md-4 text-center">
             
                 <div class="pb-2">
-                    <a href="https://harishbaki.github.io/" title="Harish Baki">
+                    <a href="http://localhost:1313/" title="Harish Baki">
                         <img alt="Footer logo" src="/fav.png"
                             height="40px" width="40px">
                     </a>
@@ -1501,6 +1502,38 @@ Harish Baki
 
 
 
+
+<script>
+  (function () {
+    const gatedSections = [
+      "about",
+      "experience",
+      "education",
+      "selected-work",
+      "projects",
+      "publications",
+      "achievements",
+      "talks",
+      "contact"
+    ];
+
+    function updateVisibleSectionFromHash() {
+      const activeId = window.location.hash.replace("#", "");
+      const heroSection = document.getElementById("hero");
+      if (heroSection) {
+        heroSection.style.display = activeId ? "none" : "";
+      }
+      gatedSections.forEach(function (id) {
+        const section = document.getElementById(id);
+        if (!section) return;
+        section.style.display = activeId === id ? "" : "none";
+      });
+    }
+
+    window.addEventListener("hashchange", updateVisibleSectionFromHash);
+    updateVisibleSectionFromHash();
+  })();
+</script>
 
   <section id="search-content" class="py-2">
     <div class="container" id="search-results"></div>

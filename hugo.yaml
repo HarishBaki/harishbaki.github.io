@@ -22,28 +22,45 @@ markup:
       unsafe: true
 
 params:
+  # Used in navbar/alt fallbacks inside the theme (not the browser tab title).
   title: "Harish Baki"
+  # SEO description (<meta name="description">), shown in search previews in google, bing, and other search engines.
   description: "Postdoctoral researcher in AI for weather and climate, focused on wind and extreme-event prediction."
+  # Browser tab icon; also used as default navbar brand logo.
   favicon: "/fav.png"
+  # false = load local Bootstrap files, true/"css"/"js" = load from CDN.
   useBootstrapCDN: false
+  # true enables MathJax script for LaTeX math rendering.
   mathjax: false
+  # true adds animated classes to navbar and hero sections.
   animate: true
 
   font:
+    # Global body text size.
     fontSize: 0.98rem
+    # Global body text weight.
     fontWeight: 400
+    # Global body line spacing.
     lineHeight: 1.45
+    # Global body text alignment.
     textAlign: left
 
   navbar:
+    # Bootstrap alignment class for menu items (ms-auto pushes right).
     align: ms-auto
+    # Top-left brand text in the navbar.
     brandName: "Harish Baki"
+    # true hides the search input.
     disableSearch: true
     stickyNavBar:
+      # true enables sticky/show-on-scroll navbar behavior.
       enable: true
+      # when sticky is enabled: show again when user scrolls up.
       showOnScrollUp: true
+    # true shows separator before custom menus.
     enableSeparator: false
     menus:
+      # false = show menu item, true = hide menu item.
       disableAbout: false
       disableExperience: false
       disableEducation: false
@@ -57,8 +74,7 @@ params:
   hero:
     enable: true
     intro: "Postdoctoral Associate"
-    title: "Harish Baki"
-    subtitle: "Machine Learning for Weather and Climate"
+    title: "Machine Learning for Weather and Climate"
     content: "I build AI and numerical-weather-modeling workflows for wind and extreme-weather prediction, with a focus on operationally useful, physically consistent forecasting tools."
     image: /photo.png
     bottomImage:
@@ -101,7 +117,7 @@ params:
         - "TabNet / CNN / U-Net / SwinTransformer"
         - "Gaussian Process Regression"
         - "Xarray / Dask / Zarr"
-        - "HPC and multi-GPU training (NVIDIA A100)"
+        - "HPC and multi-GPU training (NVIDIA DGX, A100 and H100)"
 
   experience:
     enable: true
@@ -164,7 +180,7 @@ params:
     items:
       - title: "Wind Gust Field Generation from Sparse Observations"
         content: "Deep-learning framework for generating high-resolution wind gust fields from sparse Mesonet observations, designed for operationally relevant nowcasting."
-        image: /selected-work/wind-gust-fields-from-sparse-observations/collage.svg
+        image: /selected-work/wind-gust-fields-from-sparse-observations/collage.png
         url: /selected-work/wind-gust-fields-from-sparse-observations/
         featured:
           name: "Preprint"

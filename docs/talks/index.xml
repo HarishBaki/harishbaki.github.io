@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks &amp; Conferences on Harish Baki</title>
-    <link>https://harishbaki.github.io/talks/</link>
+    <link>http://localhost:1313/talks/</link>
     <description>Recent content in Talks &amp; Conferences on Harish Baki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://harishbaki.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AMS Annual Meeting</title>
-      <link>https://harishbaki.github.io/talks/ams-annual-meeting/</link>
+      <link>http://localhost:1313/talks/ams-annual-meeting/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://harishbaki.github.io/talks/ams-annual-meeting/</guid>
+      <guid>http://localhost:1313/talks/ams-annual-meeting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; AMS Annual Meeting&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; 2025&lt;/p&gt;&#xA;&lt;p&gt;Replace &lt;code&gt;scene-01.svg&lt;/code&gt;, &lt;code&gt;scene-02.svg&lt;/code&gt;, &lt;code&gt;scene-03.svg&lt;/code&gt; with your real photos,&#xA;or add more entries under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EGU General Assembly</title>
-      <link>https://harishbaki.github.io/talks/egu-general-assembly/</link>
+      <link>http://localhost:1313/talks/egu-general-assembly/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://harishbaki.github.io/talks/egu-general-assembly/</guid>
+      <guid>http://localhost:1313/talks/egu-general-assembly/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; EGU General Assembly&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; 2023&lt;/p&gt;&#xA;&lt;p&gt;Replace &lt;code&gt;scene-01.svg&lt;/code&gt;, &lt;code&gt;scene-02.svg&lt;/code&gt;, &lt;code&gt;scene-03.svg&lt;/code&gt; with your real photos,&#xA;or add more entries under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gordon Research Conference 2025</title>
-      <link>https://harishbaki.github.io/talks/gordon-research-conference-2025/</link>
+      <link>http://localhost:1313/talks/gordon-research-conference-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://harishbaki.github.io/talks/gordon-research-conference-2025/</guid>
+      <guid>http://localhost:1313/talks/gordon-research-conference-2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; Gordon Research Conference 2025&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; June 2025&lt;/p&gt;&#xA;&lt;p&gt;Replace &lt;code&gt;scene-01.svg&lt;/code&gt;, &lt;code&gt;scene-02.svg&lt;/code&gt;, &lt;code&gt;scene-03.svg&lt;/code&gt; with your real photos,&#xA;or add more entries under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Climate Informatics (April 2024)</title>
-      <link>https://harishbaki.github.io/talks/climate-informatics-2024/</link>
+      <link>http://localhost:1313/talks/climate-informatics-2024/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://harishbaki.github.io/talks/climate-informatics-2024/</guid>
+      <guid>http://localhost:1313/talks/climate-informatics-2024/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; WISER Meeting&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; February 2016&lt;/p&gt;&#xA;&lt;p&gt;This page is wired to your uploaded image. Add more photos by placing files in this folder and listing them under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WISER Meeting (Feb 2016)</title>
-      <link>https://harishbaki.github.io/talks/wiser-meeting-feb-2016/</link>
+      <link>http://localhost:1313/talks/wiser-meeting-feb-2016/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://harishbaki.github.io/talks/wiser-meeting-feb-2016/</guid>
+      <guid>http://localhost:1313/talks/wiser-meeting-feb-2016/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; WISER Meeting&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; February 2016&lt;/p&gt;&#xA;&lt;p&gt;This page is wired to your uploaded image. Add more photos by placing files in this folder and listing them under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
