@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harish Baki</title>
-    <link>http://localhost:1313/</link>
+    <link>https://harishbaki.github.io/</link>
     <description>Recent content on Harish Baki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harishbaki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AMS Annual Meeting</title>
-      <link>http://localhost:1313/talks/ams-annual-meeting/</link>
+      <link>https://harishbaki.github.io/talks/ams-annual-meeting/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/ams-annual-meeting/</guid>
+      <guid>https://harishbaki.github.io/talks/ams-annual-meeting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; AMS Annual Meeting&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; 2025&lt;/p&gt;&#xA;&lt;p&gt;Replace &lt;code&gt;scene-01.svg&lt;/code&gt;, &lt;code&gt;scene-02.svg&lt;/code&gt;, &lt;code&gt;scene-03.svg&lt;/code&gt; with your real photos,&#xA;or add more entries under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EGU General Assembly</title>
-      <link>http://localhost:1313/talks/egu-general-assembly/</link>
+      <link>https://harishbaki.github.io/talks/egu-general-assembly/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/egu-general-assembly/</guid>
+      <guid>https://harishbaki.github.io/talks/egu-general-assembly/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; EGU General Assembly&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; 2023&lt;/p&gt;&#xA;&lt;p&gt;Replace &lt;code&gt;scene-01.svg&lt;/code&gt;, &lt;code&gt;scene-02.svg&lt;/code&gt;, &lt;code&gt;scene-03.svg&lt;/code&gt; with your real photos,&#xA;or add more entries under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gordon Research Conference 2025</title>
-      <link>http://localhost:1313/talks/gordon-research-conference-2025/</link>
+      <link>https://harishbaki.github.io/talks/gordon-research-conference-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/gordon-research-conference-2025/</guid>
+      <guid>https://harishbaki.github.io/talks/gordon-research-conference-2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; Gordon Research Conference 2025&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; June 2025&lt;/p&gt;&#xA;&lt;p&gt;Replace &lt;code&gt;scene-01.svg&lt;/code&gt;, &lt;code&gt;scene-02.svg&lt;/code&gt;, &lt;code&gt;scene-03.svg&lt;/code&gt; with your real photos,&#xA;or add more entries under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Climate Informatics (April 2024)</title>
-      <link>http://localhost:1313/talks/climate-informatics-2024/</link>
+      <link>https://harishbaki.github.io/talks/climate-informatics-2024/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/climate-informatics-2024/</guid>
+      <guid>https://harishbaki.github.io/talks/climate-informatics-2024/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; WISER Meeting&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; February 2016&lt;/p&gt;&#xA;&lt;p&gt;This page is wired to your uploaded image. Add more photos by placing files in this folder and listing them under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DFS Project</title>
-      <link>http://localhost:1313/research-projects/dfs/</link>
+      <link>https://harishbaki.github.io/research-projects/dfs/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research-projects/dfs/</guid>
+      <guid>https://harishbaki.github.io/research-projects/dfs/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Collaborative Forecasting Program&lt;br&gt;&#xA;&lt;strong&gt;Period:&lt;/strong&gt; 2025-Present&lt;/p&gt;&#xA;&lt;p&gt;Applied atmospheric forecasting collaboration for model development and performance improvement.&lt;/p&gt;&#xA;&lt;p&gt;Replace this content with your finalized project summary, responsibilities, outcomes, and links.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EU-SCORES (TU Delft)</title>
-      <link>http://localhost:1313/research-projects/eu-scores/</link>
+      <link>https://harishbaki.github.io/research-projects/eu-scores/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research-projects/eu-scores/</guid>
+      <guid>https://harishbaki.github.io/research-projects/eu-scores/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; TU Delft&lt;br&gt;&#xA;&lt;strong&gt;Period:&lt;/strong&gt; 2022-2024&lt;/p&gt;&#xA;&lt;p&gt;Integrated offshore renewable systems research with atmospheric and wind-resource modeling contributions.&lt;/p&gt;&#xA;&lt;p&gt;Replace this content with your finalized project summary, responsibilities, outcomes, and links.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WISER Project</title>
-      <link>http://localhost:1313/research-projects/wiser/</link>
+      <link>https://harishbaki.github.io/research-projects/wiser/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research-projects/wiser/</guid>
+      <guid>https://harishbaki.github.io/research-projects/wiser/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; University at Albany&lt;br&gt;&#xA;&lt;strong&gt;Period:&lt;/strong&gt; 2024-2025&lt;/p&gt;&#xA;&lt;p&gt;Early-stage collaboration on weather-intelligence and resilience-oriented modeling workflows.&lt;/p&gt;&#xA;&lt;p&gt;Replace this content with your finalized project summary, responsibilities, outcomes, and links.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WISER Meeting (Feb 2016)</title>
-      <link>http://localhost:1313/talks/wiser-meeting-feb-2016/</link>
+      <link>https://harishbaki.github.io/talks/wiser-meeting-feb-2016/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/wiser-meeting-feb-2016/</guid>
+      <guid>https://harishbaki.github.io/talks/wiser-meeting-feb-2016/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event:&lt;/strong&gt; WISER Meeting&lt;br&gt;&#xA;&lt;strong&gt;Date:&lt;/strong&gt; February 2016&lt;/p&gt;&#xA;&lt;p&gt;This page is wired to your uploaded image. Add more photos by placing files in this folder and listing them under &lt;code&gt;galleryImages&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hi/</link>
+      <link>https://harishbaki.github.io/hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hi/</guid>
+      <guid>https://harishbaki.github.io/hi/</guid>
       <description>&lt;h1 id=&#34;this-is-my-first-page&#34;&gt;This is my first page&lt;/h1&gt;&#xA;&lt;p&gt;Hi&#xA;bla bla bla&lt;/p&gt;</description>
     </item>
     <item>
       <title>TabNet for High-Resolution Wind Profiles</title>
-      <link>http://localhost:1313/selected-work/tabnet-high-resolution-wind-profiles/</link>
+      <link>https://harishbaki.github.io/selected-work/tabnet-high-resolution-wind-profiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/selected-work/tabnet-high-resolution-wind-profiles/</guid>
+      <guid>https://harishbaki.github.io/selected-work/tabnet-high-resolution-wind-profiles/</guid>
       <description>&lt;p&gt;Estimating high-resolution vertical wind speed profiles from global reanalysis data using TabNet and transfer-learning concepts.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1017/eds.2024.41&#34;&gt;Read the paper&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wind Gust Field Generation from Sparse Observations</title>
-      <link>http://localhost:1313/selected-work/wind-gust-fields-from-sparse-observations/</link>
+      <link>https://harishbaki.github.io/selected-work/wind-gust-fields-from-sparse-observations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/selected-work/wind-gust-fields-from-sparse-observations/</guid>
+      <guid>https://harishbaki.github.io/selected-work/wind-gust-fields-from-sparse-observations/</guid>
       <description>&lt;p&gt;Deep-learning framework for generating high-resolution wind gust fields from sparse Mesonet observations, designed for operationally relevant nowcasting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.22541/essoar.176031304.41826798/v2&#34;&gt;Read the preprint&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>WRF Calibration with ML for Tropical Cyclones</title>
-      <link>http://localhost:1313/selected-work/wrf-calibration-cyclone-prediction/</link>
+      <link>https://harishbaki.github.io/selected-work/wrf-calibration-cyclone-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/selected-work/wrf-calibration-cyclone-prediction/</guid>
+      <guid>https://harishbaki.github.io/selected-work/wrf-calibration-cyclone-prediction/</guid>
       <description>&lt;p&gt;Machine-learning-based sensitivity analysis and calibration of WRF physics for improved cyclone prediction in the Bay of Bengal.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1175/JAMC-D-21-0184.1&#34;&gt;Read the paper&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
