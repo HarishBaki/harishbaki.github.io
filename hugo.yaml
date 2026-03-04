@@ -232,8 +232,8 @@ params:
     items:
       - title: "WISER Meeting (Feb 2016)"
         content: "Event snapshot from the WISER meeting."
-        image: /talks/WISER-meeting-feb-2016/collage.jpg
-        url: /talks/WISER-meeting-feb-2016/
+        image: /talks/wiser-meeting-feb-2016/collage.jpg
+        url: /talks/wiser-meeting-feb-2016/
       - title: "Gordon Research Conference 2025"
         content: "Snapshots from my presentation and discussions on sparse-observation weather intelligence."
         image: /talks/gordon-research-conference-2025/collage.jpeg
