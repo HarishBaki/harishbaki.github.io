@@ -71,8 +71,8 @@ header .navbar.animate {
 /* hero */
 
 #hero {
-    min-height: 100vh;
-    line-height: 2rem;
+    min-height: 78vh;
+    line-height: 1.7rem;
     max-width: 100%;
 }
 #hero .content.animate {
@@ -102,8 +102,8 @@ header .navbar.animate {
 }
 
 #hero p {
-    margin: 20px 0px 0px;
-    max-width: 640px;
+    margin: 14px 0px 0px;
+    max-width: 700px;
     opacity: 0.8;
 }
 
@@ -128,7 +128,7 @@ header .navbar.animate {
     color: var(--primary-color) !important;
     line-height: 0%;
     border-radius: 50%;
-    margin-top: 50px;
+    margin-top: 24px;
     padding: 0.7rem;
     border: 1px solid var(--primary-color);
     transition: none;
@@ -143,7 +143,7 @@ header .navbar.animate {
 }
 
 #hero a.btn {
-    margin-top: 50px;
+    margin-top: 24px;
     padding: 0.7rem 1.75rem;
     border: 1px solid var(--primary-color);
     color: var(--text-color) !important;
@@ -231,7 +231,31 @@ header .navbar.animate {
 #about .content {
     font-weight: 500;
     opacity: 0.9 !important;
-    line-height: 1.7rem !important;
+    line-height: 1.55rem !important;
+}
+
+#about,
+#experience,
+#education,
+#projects,
+#publications,
+#contact {
+    padding-top: 2.25rem !important;
+    padding-bottom: 2.25rem !important;
+}
+
+#about .row.justify-content-center.px-3.py-5,
+#education .row.justify-content-center.py-5,
+#contact .row.justify-content-center.px-md-5 {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+
+#experience .row.justify-content-center .col-sm-12,
+#experience .row.justify-content-center .col-md-8,
+#experience .row.justify-content-center .col-lg-8 {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
 }
 
 #about a {
@@ -471,6 +495,143 @@ header .navbar.animate {
 
 /* achievements */
 
+#projects a {
+    text-decoration: none;
+}
+
+#projects h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#projects .card {
+    background-color: var(--secondary-color) !important;
+    border-radius: 1rem;
+    box-shadow: 0 0 36px rgba(0,0,0,0.1);
+    transition: box-shadow .2s linear,opacity .2s linear;
+    border: 2px solid transparent;
+}
+
+#projects .card h5 {
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#projects .card:hover {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#projects .card:focus {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#projects .card-text {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-secondary-color) !important;
+}
+
+#projects img {
+    border-radius: 0.7rem;
+}
+
+#publications a {
+    text-decoration: none;
+}
+
+#publications h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#publications .card {
+    background-color: var(--secondary-color) !important;
+    border-radius: 1rem;
+    box-shadow: 0 0 36px rgba(0,0,0,0.1);
+    /* transform: translate3d(0, 0, 0); */
+    transition: box-shadow .2s linear,opacity .2s linear;
+    border: 2px solid transparent;
+}
+
+#publications .card h5 {
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#publications .card:hover {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+#publications .card:focus {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#publications .card-text {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-secondary-color) !important;
+}
+
+#publications img {
+    border-radius: 0.7rem;
+}
+
+#publications .publication-cloud-caption {
+    margin: 0.5rem auto 1.5rem;
+    max-width: 900px;
+}
+
+#publications .publication-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem 0.8rem;
+    background-color: var(--secondary-color);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    padding: 1.25rem 1rem;
+}
+
+#publications .publication-cloud-word {
+    line-height: 1.1;
+    color: var(--text-color);
+    display: inline-block;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+#publications .publication-cloud-word:hover {
+    transform: scale(1.08);
+    opacity: 1 !important;
+}
+
+#hero .publication-brain-wrapper {
+    width: 100%;
+    background: var(--secondary-color);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 1rem;
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.08);
+    padding: 0.6rem 0.5rem 0.2rem;
+}
+
+#hero .publication-brain-svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#hero .publication-brain-svg .brain-word {
+    fill: var(--text-color);
+    opacity: 0.86;
+    font-family: "Lora", serif;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+}
+
+#hero .publication-brain-caption {
+    margin: 0.35rem 0 0.1rem;
+    color: var(--text-secondary-color);
+    font-size: 0.86rem;
+}
+
 #achievements a {
     text-decoration: none;
 }
@@ -483,7 +644,6 @@ header .navbar.animate {
     background-color: var(--secondary-color) !important;
     border-radius: 1rem;
     box-shadow: 0 0 36px rgba(0,0,0,0.1);
-    /* transform: translate3d(0, 0, 0); */
     transition: box-shadow .2s linear,opacity .2s linear;
     border: 2px solid transparent;
 }
@@ -497,6 +657,7 @@ header .navbar.animate {
     border: 2px solid var(--text-color);
     transition: .3s;
 }
+
 #achievements .card:focus {
     border: 2px solid var(--text-color);
     transition: .3s;
@@ -508,6 +669,46 @@ header .navbar.animate {
 }
 
 #achievements img {
+    border-radius: 0.7rem;
+}
+
+#talks a {
+    text-decoration: none;
+}
+
+#talks h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#talks .card {
+    background-color: var(--secondary-color) !important;
+    border-radius: 1rem;
+    box-shadow: 0 0 36px rgba(0,0,0,0.1);
+    transition: box-shadow .2s linear,opacity .2s linear;
+    border: 2px solid transparent;
+}
+
+#talks .card h5 {
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#talks .card:hover {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#talks .card:focus {
+    border: 2px solid var(--text-color);
+    transition: .3s;
+}
+
+#talks .card-text {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-secondary-color) !important;
+}
+
+#talks img {
     border-radius: 0.7rem;
 }
 
