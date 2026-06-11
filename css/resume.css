@@ -1,0 +1,233 @@
+/*
+ * Resume print stylesheet.
+ *
+ * Designed for Markdown-rendered HTML wrapped in:
+ *   <main class="resume-document">...</main>
+ */
+
+@page {
+  size: letter;
+  margin: 0.46in 0.54in;
+}
+
+:root {
+  --resume-text: #17212b;
+  --resume-strong: #17212b;
+  --resume-muted: #53616d;
+  --resume-soft: #eef5f6;
+  --resume-rule: #b9c9cf;
+  --resume-accent: #2d7280;
+  --resume-accent-dark: #1a4d58;
+  --resume-link: #246575;
+}
+
+html {
+  background: #eef2f3;
+}
+
+body {
+  margin: 0;
+  color: var(--resume-text);
+  font-family: "Avenir Next", Avenir, "Segoe UI", Arial, Helvetica, sans-serif;
+  font-size: 9.55pt;
+  line-height: 1.31;
+  letter-spacing: 0;
+}
+
+.resume-document {
+  box-sizing: border-box;
+  max-width: 8.5in;
+  min-height: 11in;
+  margin: 32px auto;
+  padding: 0.44in 0.5in 0.5in;
+  background: #fff;
+  box-shadow: 0 18px 54px rgba(23, 33, 43, 0.15);
+}
+
+.resume-document * {
+  box-sizing: border-box;
+}
+
+.resume-document h1,
+.resume-document h2,
+.resume-document h3,
+.resume-document p,
+.resume-document ul,
+.resume-document ol {
+  margin-top: 0;
+}
+
+.resume-document h1 {
+  margin: 0;
+  padding: 0;
+  color: var(--resume-accent-dark);
+  font-size: 27pt;
+  font-weight: 600;
+  line-height: 0.98;
+}
+
+.resume-document h1 + p {
+  position: relative;
+  margin: 8px 0 17px;
+  padding: 9px 12px 10px;
+  border-left: 5px solid var(--resume-accent);
+  background: var(--resume-soft);
+  color: var(--resume-muted);
+  font-size: 9.05pt;
+  line-height: 1.28;
+}
+
+.resume-document h1 + p a {
+  color: var(--resume-accent-dark);
+  font-weight: 600;
+}
+
+.resume-document h2 {
+  position: relative;
+  margin: 13px 0 6px;
+  padding: 0 0 4px;
+  border-bottom: 1px solid var(--resume-rule);
+  color: var(--resume-accent-dark);
+  font-size: 10.05pt;
+  font-weight: 680;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.resume-document h3 {
+  margin: 8px 0 3px;
+  color: #24323d;
+  font-size: 9.75pt;
+  font-weight: 620;
+  line-height: 1.16;
+}
+
+.resume-document p {
+  margin-bottom: 6px;
+}
+
+.resume-document a {
+  color: var(--resume-link);
+  text-decoration: none;
+}
+
+.resume-document a:hover {
+  text-decoration: underline;
+}
+
+.resume-document strong {
+  color: var(--resume-strong);
+  font-weight: 620;
+}
+
+.resume-document em {
+  font-style: italic;
+}
+
+.resume-document ul,
+.resume-document ol {
+  margin-bottom: 7px;
+}
+
+.resume-document ul {
+  padding-left: 16px;
+}
+
+.resume-document ol {
+  padding-left: 24px;
+}
+
+.resume-document li {
+  margin-bottom: 2px;
+  padding-left: 1px;
+}
+
+.resume-document li::marker {
+  color: var(--resume-accent);
+  font-weight: 600;
+}
+
+.resume-document p + ul,
+.resume-document p + ol {
+  margin-top: -2px;
+}
+
+.resume-document blockquote {
+  margin: 8px 0;
+  padding-left: 12px;
+  border-left: 2px solid var(--resume-rule);
+  color: var(--resume-muted);
+}
+
+.resume-document code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.92em;
+}
+
+.resume-document hr {
+  height: 1px;
+  margin: 12px 0;
+  border: 0;
+  background: var(--resume-rule);
+}
+
+.resume-document > h2:first-of-type {
+  margin-top: 12px;
+}
+
+.resume-document h2 + p,
+.resume-document h2 + ul,
+.resume-document h2 + ol {
+  margin-top: 0;
+}
+
+.resume-document h2,
+.resume-document h3 {
+  break-after: avoid;
+}
+
+.resume-document .resume-compact-list li {
+  margin-bottom: 1px;
+}
+
+.resume-document .resume-page-break {
+  break-before: page;
+}
+
+@media screen and (max-width: 760px) {
+  html {
+    background: #fff;
+  }
+
+  .resume-document {
+    min-height: auto;
+    margin: 0;
+    padding: 24px 18px;
+    box-shadow: none;
+  }
+
+  .resume-document h1 {
+    font-size: 25pt;
+  }
+}
+
+@media print {
+  html,
+  body {
+    width: 100%;
+    background: #fff;
+  }
+
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .resume-document {
+    max-width: none;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+  }
+}
