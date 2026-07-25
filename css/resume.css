@@ -82,6 +82,11 @@ body {
   font-weight: 600;
 }
 
+.resume-document h1 + p::first-line {
+  color: var(--resume-accent-dark);
+  font-weight: 650;
+}
+
 .resume-document h2 {
   position: relative;
   margin: 13px 0 6px;
@@ -92,6 +97,7 @@ body {
   font-weight: 680;
   line-height: 1.1;
   text-transform: uppercase;
+  letter-spacing: 0.45px;
 }
 
 .resume-document h3 {
@@ -104,6 +110,7 @@ body {
 
 .resume-document p {
   margin-bottom: 6px;
+  text-align: justify;
 }
 
 .resume-document a {
